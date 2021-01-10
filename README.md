@@ -5,7 +5,7 @@
 ###### +sqlite3
 
 #### Possiveis apps necessarios:
-###### +Obviamente um editor de codigohttps://github.com/felipegfsouza
+###### +Obviamente um editor de codigo
 ###### +Python3 na maquina da execução
 ###### +Os modulos citados assima
 
