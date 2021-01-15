@@ -20,7 +20,7 @@
 ## OBSERVAÇÕES IMPORTANTES:
 #### Projeto feito por um iniciante por isso respeitar a má aparencia do codigo
 #### Na parte de cadastro o primeiro campo é o Nome e o segundo é o Login logo abaixo tambem temos a Senha e a Contra Senha
-#### Quero agradecer ao meu amigo brasileiro felipe...ajudou-me no codigo..o mesmo fez um projeto parecido com o mesmo proposito no github dele
+#### Quero agradecer ao meu amigo brasileiro felipe...ajudou-me no codigo.
 ### Github do felipe: https://github.com/felipegfsouza
 
 ## OBRIGADO PELA ATENÇÃO
